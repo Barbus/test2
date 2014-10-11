@@ -1,0 +1,12 @@
+{
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0",
+        "cebe/markdown": "*"
+    },
+    "repositories": [
+        {"type": "composer", "url": "http://localhost/toran/web/app.php/repo/private/"},
+        {"type": "composer", "url": "http://localhost/toran/web/app.php/repo/packagist/"},
+        {"packagist": false}
+    ]
+}
