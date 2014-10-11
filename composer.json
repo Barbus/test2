@@ -1,5 +1,8 @@
 {
-    "name": "test2",
+    "name": "test22",
+    "license": "MIT",
+    "type": "project",
+    "description": "test22",
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0",
